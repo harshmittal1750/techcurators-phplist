@@ -602,8 +602,8 @@ define('PHPMAILERHOST', 'smtp.gmail.com');
 // if you want to use smtp authentication when sending the email uncomment the following
 // two lines and set the username and password to be the correct ones
 
-$phpmailer_smtpuser = 'harshmittal1750@gmail.com';
-$phpmailer_smtppassword = 'xujomicgbujmwlxx';
+$phpmailer_smtpuser = 'demo@gmail.com';
+$phpmailer_smtppassword = 'yourpassword';
 
 //# you can set this to send out via a different SMTP port
 define('PHPMAILERPORT', 587);
